@@ -35,7 +35,7 @@ body:
       description: Also tell us, what did you see is happen?
       placeholder: Tell us what you see that is happening
     validations:
-      required: true 
+      required: true
   - type: textarea
     attributes:
       label: Simplest Possible Self-Contained Example Showing the Bug
