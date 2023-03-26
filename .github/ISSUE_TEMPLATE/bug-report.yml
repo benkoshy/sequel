@@ -21,7 +21,7 @@ body:
     attributes:
       label: Report
       description: "Complete Description of Issue"
-      placeholder: ""
+      placeholder: "Complete Description of Issue"
   - type: textarea
     attributes:
       label: Expected Behavior
