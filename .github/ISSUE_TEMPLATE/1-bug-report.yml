@@ -5,12 +5,18 @@ labels: ["bug", "triage"]
 body:
   - type: markdown
     attributes:
-      value: |
+      value: "## Bugs Only
+        If you have
+          - a question, or need help,
+          - or want to request a feature,
+          - or do anything else other than submit a bug report, please use [GitHub Discussions](https://github.com/jeremyevans/sequel/discussions) or the [sequel-talk Google Group  (A Question / Answer Forum)](https://groups.google.com/g/sequel-talk). Why? To protect the maintainer's  time, and (2) as an added incentive, there are many folks watching the discussion board - who will likely point you in the right direction if they know the answer.
+ |
         ## Self-help
         Before you make a bug report, please check our existing resources to see if it has already been discussed/reported:
         - [Reported bugs](https://github.com/jeremyevans/sequel/issues?q=is%3Aissue+is%3Aclosed)
         - [GitHub Discussions](https://github.com/jeremyevans/sequel/discussions/)
         - [sequel-talk Google Group  (A Question / Answer Forum)](https://groups.google.com/g/sequel-talk)        
+        "
   - type: textarea
     attributes:
       label: Report
